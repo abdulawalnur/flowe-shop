@@ -58,5 +58,63 @@ padding-left: 640px;
 /* section2 style */
 .section2-content{
     display: flex;
-    gap: 70px;
+    gap: 150px;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.section2-1stimg{
+    background-color:rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0 76px;
+    border-radius: 300px 300px 0px 0px;
+    
+}
+.section2-2ndimg{
+    padding: 117px 47px 51px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+.section2-3rdimg{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0;
+}
+.flower-title{
+    text-align: center;
+    font-size: 24px;
+font-style: normal;
+font-weight: 700;
+}
+/* section3 style */
+.section3{
+    width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+margin-top: 200px;
+}
+.section3-content{
+    display: flex;
+    gap: 100px;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.section3-1stdiv{
+    padding-top: 150px;
+   padding-left: 100px
+}
+.section3-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.section3-title-spelling{
+    color: #E55473;
+}
+.section3-describtion{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+width: 595px;
 }
